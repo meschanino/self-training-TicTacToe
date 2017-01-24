@@ -1,0 +1,8 @@
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.exe.config
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.exe
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\_2016_12_08_Крестики_нолики.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.exe
+c:\users\andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.pdb

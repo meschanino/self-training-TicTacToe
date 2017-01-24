@@ -1,0 +1,8 @@
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.exe.config
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.exe
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\bin\Debug\2016-12-08 Крестики-нолики.pdb
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\_2016_12_08_Крестики_нолики.Properties.Resources.resources
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.exe
+C:\Users\Andrey\documents\visual studio 2017\Projects\2016-12-08 Крестики-нолики\2016-12-08 Крестики-нолики\obj\Debug\2016-12-08 Крестики-нолики.pdb
